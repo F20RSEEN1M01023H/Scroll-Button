@@ -2,7 +2,7 @@
 
 - A beautiful and smooth scroll-to-top button built with React, Vite, and Tailwind CSS. This project demonstrates modern React hooks usage, event handling, and smooth animations.
 
-[!Images](./src/assets/screencapture-localhost-5173-2025-12-09-20_59_36.png)
+![Desktop Images](./src/assets/screencapture-localhost-5173-2025-12-09-20_59_36.png)
 
 ## ✨ Features
 
