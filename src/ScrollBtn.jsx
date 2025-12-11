@@ -104,14 +104,14 @@ export default function App() {
       {/* Scroll to Top Button */}
       <button
         onClick={scrollToTop}
-        className={`fixed bottom-8 right-8 bg-linear-to-r from-purple-600 to-blue-600 text-white p-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110 ${
+        className={`fixed bottom-8 right-8 bg-linear-to-r from-slate-600 to-blue-600 text-white p-4 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-110 ${
           isVisible
             ? "opacity-100 translate-y-0"
             : "opacity-0 translate-y-16 pointer-events-none"
         }`}
         aria-label="Scroll to top"
       >
-        <ArrowUp className="w-6 h-6" />
+        <ArrowUp className="w-7 h-7" />
       </button>
     </div>
   );
