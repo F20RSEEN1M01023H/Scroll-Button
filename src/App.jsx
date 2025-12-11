@@ -3,7 +3,7 @@ import ScrollBt from "./ScrollBtn";
 
 const App = () => {
   return (
-    <div>
+    <div className="font-mono">
       <ScrollBt />
     </div>
   );
