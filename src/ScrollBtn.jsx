@@ -31,7 +31,7 @@ export default function App() {
   }, []);
 
   return (
-    <div className="min-h-screen bg-linear-to-br from-purple-50 to-blue-50">
+    <div className="min-h-screen bg-linear-to-br from-purple-100 to-blue-100">
       {/* Header */}
       <header className="bg-white shadow-md sticky top-0 z-10">
         <div className="max-w-6xl mx-auto px-6 py-4">
@@ -79,7 +79,7 @@ export default function App() {
               cupidatat non proident, sunt in culpa qui officia deserunt mollit
               anim id est laborum.
             </p>
-            <div className="bg-linear-to-r from-purple-100 to-blue-100 p-6 rounded-lg">
+            <div className="bg-linear-to-r from-purple-200 to-blue-200 p-6 rounded-lg">
               <h3 className="text-xl font-semibold text-gray-800 mb-2">
                 Key Feature {num}
               </h3>
